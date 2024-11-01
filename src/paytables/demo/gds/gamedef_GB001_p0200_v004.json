@@ -1,0 +1,279 @@
+{
+  "fileFormatVersion": 18,
+  "versionFromFilename": "v004",
+  "gameType": 0,
+  "gridSize": 31,
+  "revealFileSignature": [
+    1,
+    -2,
+    64,
+    -81,
+    78,
+    -73,
+    21,
+    -71,
+    -38,
+    120,
+    76,
+    0,
+    -43,
+    29,
+    56,
+    -71,
+    -125,
+    58,
+    -64,
+    21,
+    -126,
+    -96,
+    -12,
+    103,
+    53,
+    80,
+    16,
+    -75,
+    65,
+    122,
+    116,
+    -86,
+    70,
+    43,
+    56,
+    -72,
+    84,
+    21,
+    90,
+    -17,
+    24,
+    -118,
+    -52,
+    -117,
+    50,
+    112,
+    90,
+    16,
+    124,
+    80,
+    -15,
+    -121,
+    -116,
+    85,
+    -66,
+    -57,
+    -58,
+    -70,
+    113,
+    -21,
+    -2,
+    -37,
+    -52,
+    34
+  ],
+  "bigEndian": false,
+  "playcardScanFlag": false,
+  "pricePoint": 200,
+  "betUnits": 1,
+  "validationUnits": 1,
+  "numberOfDivisions": 31,
+  "longGameName": "Ghostbusters",
+  "shortGameName": "GB001",
+  "vendorId": 1,
+  "internalAuditVendorId": 2,
+  "externalAuditVendorId": 0,
+  "gridMethod": 0,
+  "gridTrigger": 0,
+  "gridTriggerUnit": 0,
+  "prizes": [
+    {
+      "divisionValue": 2500000,
+      "tableValue": 2500000,
+      "winnerCount": 1,
+      "description": "A  "
+    },
+    {
+      "divisionValue": 51000,
+      "tableValue": 50000,
+      "winnerCount": 1,
+      "description": "B  "
+    },
+    {
+      "divisionValue": 50400,
+      "tableValue": 20000,
+      "winnerCount": 1,
+      "description": "C  "
+    },
+    {
+      "divisionValue": 50200,
+      "tableValue": 6000,
+      "winnerCount": 1,
+      "description": "D  "
+    },
+    {
+      "divisionValue": 50000,
+      "tableValue": 3000,
+      "winnerCount": 1,
+      "description": "E  "
+    },
+    {
+      "divisionValue": 21000,
+      "tableValue": 1000,
+      "winnerCount": 1,
+      "description": "F  "
+    },
+    {
+      "divisionValue": 20400,
+      "tableValue": 200,
+      "winnerCount": 1,
+      "description": "G  "
+    },
+    {
+      "divisionValue": 20200,
+      "tableValue": 1000,
+      "winnerCount": 1,
+      "description": "IW1"
+    },
+    {
+      "divisionValue": 20000,
+      "tableValue": 400,
+      "winnerCount": 1,
+      "description": "IW2"
+    },
+    {
+      "divisionValue": 7000,
+      "tableValue": 200,
+      "winnerCount": 1,
+      "description": "IW3"
+    },
+    {
+      "divisionValue": 6400,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 6200,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 6000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 4200,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 4000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 3600,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 3400,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 3200,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 3000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 2400,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 2200,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 2000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 1600,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 1400,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 1200,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 1000,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 800,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 600,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 400,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 200,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    },
+    {
+      "divisionValue": 0,
+      "tableValue": 0,
+      "winnerCount": 1,
+      "description": "   "
+    }
+  ],
+  "siteId": 254,
+  "prizeDescriptionLength": 3,
+  "gameGroupNumber": 0,
+  "kenoSpotCount": 0,
+  "kenoMultiplier": false
+}

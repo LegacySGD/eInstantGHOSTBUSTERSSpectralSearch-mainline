@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="it">
+<phrase key="softwareId" value="ID Software"/>
+<phrase key="transactionId" value="ID Transazione"/>
+<phrase key="totalWins" value="Totale Vincite"/>
+<phrase key="totalWager" value="Puntata Totale"/>
+<phrase key="ghosts" value="Fantasmi"/>
+<phrase key="numberCollected" value="Numeri Raccolti"/>
+<phrase key="prize" value="Premio"/>
+<phrase key="slimerIW" value="Vincite Istantanee Slimer"/>
+<phrase key="A" value="Stay Puft"/>
+<phrase key="B" value="Zuul"/>
+<phrase key="C" value="Fratelli Scoleri"/>
+<phrase key="D" value="Fantasma Biblioteca"/>
+<phrase key="E" value="Fantasma Rosso"/>
+<phrase key="F" value="Fantasma Granchio"/>
+<phrase key="G" value="Fantasma Metro"/>
+<phrase key="ghosts" value="Fantasmi"/>
+<phrase key="1" value="Slimer"/>
+<phrase key="2" value="Slimer"/>
+<phrase key="3" value="Slimer"/>
+</translation>

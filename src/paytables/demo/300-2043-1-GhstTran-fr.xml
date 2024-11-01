@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fr">
+<phrase key="softwareId" value="ID logiciel"/>
+<phrase key="transactionId" value="ID transaction"/>
+<phrase key="totalWins" value="Total des gains"/>
+<phrase key="totalWager" value="Total des sommes jouées"/>
+<phrase key="ghosts" value="Fantômes"/>
+<phrase key="numberCollected" value="Nombre collecté"/>
+<phrase key="prize" value="Gain"/>
+<phrase key="slimerIW" value="Gains immédiats Bouffe-Tout"/>
+<phrase key="A" value="Bibendum"/>
+<phrase key="B" value="Zuul"/>
+<phrase key="C" value="Frères Scoleri"/>
+<phrase key="D" value="Fantôme de la bibliothèque"/>
+<phrase key="E" value="Fantôme rouge"/>
+<phrase key="F" value="Fantôme crabe"/>
+<phrase key="G" value="Fantôme du métro"/>
+<phrase key="ghosts" value="Fantômes"/>
+<phrase key="1" value="Bouffe-Tout"/>
+<phrase key="2" value="Bouffe-Tout"/>
+<phrase key="3" value="Bouffe-Tout"/>
+</translation>

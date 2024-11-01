@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fi">
+<phrase key="softwareId" value="Ohjelmiston tunniste"/>
+<phrase key="transactionId" value="Tapahtuman tunniste"/>
+<phrase key="totalWins" value="Kokonaisvoitot"/>
+<phrase key="totalWager" value="Kokonaispanos"/>
+<phrase key="ghosts" value="Haamut"/>
+<phrase key="numberCollected" value="Kerätty määrä"/>
+<phrase key="prize" value="Palkinto"/>
+<phrase key="slimerIW" value="Välittömät Slimer-voitot"/>
+<phrase key="A" value="Stay Puft"/>
+<phrase key="B" value="Zuul"/>
+<phrase key="C" value="Scolerin veljekset"/>
+<phrase key="D" value="Kirjaston haamu"/>
+<phrase key="E" value="Punainen haamu"/>
+<phrase key="F" value="Rapuhaamu"/>
+<phrase key="G" value="Metrohaamu"/>
+<phrase key="ghosts" value="Haamut"/>
+<phrase key="1" value="Slimer"/>
+<phrase key="2" value="Slimer"/>
+<phrase key="3" value="Slimer"/>
+</translation>

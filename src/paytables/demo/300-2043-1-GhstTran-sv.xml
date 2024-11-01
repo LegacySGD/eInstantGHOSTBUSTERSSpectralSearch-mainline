@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="sv">
+<phrase key="softwareId" value="Programvaru-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Totala vinster"/>
+<phrase key="totalWager" value="Total insats"/>
+<phrase key="ghosts" value="Spöken"/>
+<phrase key="numberCollected" value="Antal samlade"/>
+<phrase key="prize" value="Vinst"/>
+<phrase key="slimerIW" value="Slimer direktvinster"/>
+<phrase key="A" value="Stay Puft marshmallowsmannen"/>
+<phrase key="B" value="Zuul"/>
+<phrase key="C" value="Bröderna Scoleri "/>
+<phrase key="D" value="Biblioteksspöket"/>
+<phrase key="E" value="Rött spöke"/>
+<phrase key="F" value="Krabbspöke"/>
+<phrase key="G" value="Tubbelbanespöke"/>
+<phrase key="ghosts" value="Spöken"/>
+<phrase key="1" value="Slimer"/>
+<phrase key="2" value="Slimer"/>
+<phrase key="3" value="Slimer"/>
+</translation>

@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="GHOSTBUSTERS Spectral Search" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="GHOSTBUSTERSSpectralSearchUI2" enableFreeSpin="N" clientversion="1.0" gameId="300-2043-1" />
+	<GameClient name="GHOSTBUSTERS Spectral Search" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="GHOSTBUSTERSSpectralSearchUI2" enableFreeSpin="N" clientversion="1.0" gameId="300-2043-1" />
+	<GameClient name="GHOSTBUSTERS Spectral Search" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="GHOSTBUSTERSSpectralSearchUI2" enableFreeSpin="N" clientversion="1.0" gameId="300-2043-1" />
+</ClientConfig>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="ghosts" value="Ghosts"/>
+<phrase key="numberCollected" value="Number Collected"/>
+<phrase key="prize" value="Prize"/>
+<phrase key="slimerIW" value="Slimer Instant Wins"/>
+<phrase key="A" value="Stay Puft"/>
+<phrase key="B" value="Zuul"/>
+<phrase key="C" value="Scoleri Bros"/>
+<phrase key="D" value="Library Ghost"/>
+<phrase key="E" value="Red Ghost"/>
+<phrase key="F" value="Crab Ghost"/>
+<phrase key="G" value="Subway Ghost"/>
+<phrase key="ghosts" value="Ghosts"/>
+<phrase key="1" value="Slimer"/>
+<phrase key="2" value="Slimer"/>
+<phrase key="3" value="Slimer"/>
+</translation>

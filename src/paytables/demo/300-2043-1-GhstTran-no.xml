@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="no">
+<phrase key="softwareId" value="Programvare-ID"/>
+<phrase key="transactionId" value="Transaksjons-ID"/>
+<phrase key="totalWins" value="Totale gevinster"/>
+<phrase key="totalWager" value="Totale innsatser"/>
+<phrase key="ghosts" value="Spøkelser"/>
+<phrase key="numberCollected" value="Antall samlet"/>
+<phrase key="prize" value="Gevinst"/>
+<phrase key="slimerIW" value="Slimer-hurtiggevinst"/>
+<phrase key="A" value="Stay Puft"/>
+<phrase key="B" value="Zuul"/>
+<phrase key="C" value="Scoleri Bros"/>
+<phrase key="D" value="Bibliotekspøkelset"/>
+<phrase key="E" value="Rødt spøkelse"/>
+<phrase key="F" value="Krabbespøkelse"/>
+<phrase key="G" value="T-banespøkelse"/>
+<phrase key="ghosts" value="Spøkelser"/>
+<phrase key="1" value="Slimer"/>
+<phrase key="2" value="Slimer"/>
+<phrase key="3" value="Slimer"/>
+</translation>

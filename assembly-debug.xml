@@ -1,0 +1,17 @@
+<assembly>
+	<id>RGSGAMES-debug</id>
+	<formats>
+		<format>zip</format>
+	</formats>
+	<includeBaseDirectory>false</includeBaseDirectory>
+	<fileSets>
+		<fileSet>
+			<directory>${basedir}/target/deploy/debug</directory>
+			<outputDirectory>/</outputDirectory>
+			<includes>
+				<include>apache/htdocs/app/studios/*/games/*/bin/Game.swf</include>
+				<include>apache/htdocs/app/studios/*/games/*/*-forceData.xml</include>
+			</includes>
+		</fileSet>
+	</fileSets>
+</assembly>

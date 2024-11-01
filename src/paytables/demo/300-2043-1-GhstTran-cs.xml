@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="cs">
+<phrase key="softwareId" value="ID softwaru"/>
+<phrase key="transactionId" value="ID transakce"/>
+<phrase key="totalWins" value="Celková výhra"/>
+<phrase key="totalWager" value="Celková sázka"/>
+<phrase key="ghosts" value="Duchové"/>
+<phrase key="numberCollected" value="Získaný počet"/>
+<phrase key="prize" value="Výhra"/>
+<phrase key="slimerIW" value="Okamžité výhry za Slimera"/>
+<phrase key="A" value="Stay Puft"/>
+<phrase key="B" value="Zuul"/>
+<phrase key="C" value="Bratři Scoleriové"/>
+<phrase key="D" value="Duch v knihovně"/>
+<phrase key="E" value="Červený duch"/>
+<phrase key="F" value="Krabí duch"/>
+<phrase key="G" value="Duch v metru"/>
+<phrase key="ghosts" value="Duchové"/>
+<phrase key="1" value="Slimer"/>
+<phrase key="2" value="Slimer"/>
+<phrase key="3" value="Slimer"/>
+</translation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="de">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Transaktions-ID"/>
+<phrase key="totalWins" value="Gewinne gesamt"/>
+<phrase key="totalWager" value="Einsatz gesamt"/>
+<phrase key="ghosts" value="Geister"/>
+<phrase key="numberCollected" value="Gesammelt"/>
+<phrase key="prize" value="Preis"/>
+<phrase key="slimerIW" value="Slimer-Sofortgewinne"/>
+<phrase key="A" value="Marshmallow-Mann"/>
+<phrase key="B" value="Zuul"/>
+<phrase key="C" value="Scoleri-Brüder"/>
+<phrase key="D" value="Bibliothek-Geist"/>
+<phrase key="E" value="Roter Geist"/>
+<phrase key="F" value="Krabben-Geist"/>
+<phrase key="G" value="U-Bahn-Geist"/>
+<phrase key="ghosts" value="Geister"/>
+<phrase key="1" value="Slimer"/>
+<phrase key="2" value="Slimer"/>
+<phrase key="3" value="Slimer"/>
+</translation>
